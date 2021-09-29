@@ -6,7 +6,12 @@ const emojiDictionary = {
   "😑": "Expressionless face",
   "😕": "Confused face",
   "😲": "Shocking face",
-  "🥶": "Cold face"
+  "😮": "Surprised face",
+  "😂": "Face with tears of joy",
+  "🤑": "Money Mouth face",
+  "🤐": "Zipper Mouth face",
+  "😫": "Tired face",
+  "✌️": "Victory Hand"
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
